@@ -199,4 +199,3 @@ FinzlabAssesmentTests/
 - OpenAPI specification generation
 - In-memory database for testing
 - Unique constraint on ExternalId for idempotency enforcement</content>
-<parameter name="filePath">c:\Users\USER PC\Desktop\FinzlabAssesment\README.md
