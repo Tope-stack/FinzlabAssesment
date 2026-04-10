@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FinzlabAssesment/FinzlabAssesment.csproj" />
+  <Project Path="FinzlabAssesmentTests/FinzlabAssesmentTests.csproj" />
+</Solution>
